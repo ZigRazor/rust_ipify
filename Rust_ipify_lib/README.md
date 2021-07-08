@@ -4,7 +4,7 @@ A rust client library for [ipify](https://www.ipify.org/)
 <img src="https://img.shields.io/badge/rust%20-%2300599C.svg?&style=for-the-badge&logo=rust%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 [![GitHub license](https://img.shields.io/github/license/ZigRazor/rust_ipify.svg)](https://github.com/ZigRazor/rust_ipify/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/ZigRazor/rust_ipify.svg)](https://GitHub.com/ZigRazor/CXXGraph/releases/)
+[![GitHub release](https://img.shields.io/github/release/ZigRazor/rust_ipify.svg)](https://GitHub.com/ZigRazor/rust_ipify/releases/)
 
 [![Generic badge](https://img.shields.io/badge/Build-Passed-Green.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/UnitTest-Passed-Green.svg)](https://shields.io/)
 
@@ -104,7 +104,7 @@ If you want to change the code, or fix issue, or implement a new feature please 
 
 ## Site
 
-WORK IN PROGRESS
+Checkout last released version from Crates.io Site [here](https://crates.io/crates/rust_ipify)
 
 ## Contact
 E-Mail : zigrazor@gmail.com
