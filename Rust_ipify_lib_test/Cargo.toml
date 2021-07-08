@@ -4,4 +4,4 @@ version = "1.0.0"
 authors = ["ZigRazor"]
 edition = "2018"
 [dependencies]
-ipify_lib = { path = "../Rust_ipify_lib" }
+Rust_ipify = { path = "../Rust_ipify_lib" }

@@ -1,7 +1,12 @@
 [package]
-name = "ipify_lib"
+name = "Rust_ipify"
 version = "1.0.0"
 authors = ["ZigRazor"]
 edition = "2018"
+license-file = "LICENSE"
+description = "A rust client library for ipify"
+homepage = "https://github.com/ZigRazor/rust_ipify"
+repository = "https://github.com/ZigRazor/rust_ipify"
+readme = "README.md"
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking","json"] }
