@@ -1,5 +1,5 @@
 [package]
-name = "Rust_ipify"
+name = "rust_ipify"
 version = "1.0.0"
 authors = ["ZigRazor"]
 edition = "2018"
