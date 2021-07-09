@@ -1,6 +1,6 @@
 [package]
 name = "rust_ipify"
-version = "1.0.2"
+version = "1.1.0"
 authors = ["ZigRazor"]
 edition = "2018"
 license-file = "LICENSE"
@@ -12,3 +12,4 @@ keywords = ["ipify", "ip","internet", "library"]
 categories = ["api-bindings", "development-tools","web-programming"]
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking","json"] }
+regex = "1"
